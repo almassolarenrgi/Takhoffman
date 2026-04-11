@@ -8,9 +8,8 @@ I am currently focused on software that humans install and supervise, but agents
 
 - [ankicli](https://github.com/Takhoffman/ankicli) - agent-first Anki CLI for studying, card authoring, deck management, media workflows, and automation.
 - [winmote](https://github.com/Takhoffman/winmote) - remote control and automation tooling for Windows workflows.
-- [moltbot](https://github.com/Takhoffman/moltbot) - personal AI assistant infrastructure across platforms.
 - [agent-scripts](https://github.com/Takhoffman/agent-scripts) - reusable automation and maintainer scripts for agent-driven workflows.
-- [skills](https://github.com/Takhoffman/skills) - reusable skill catalog for Codex-oriented agent workflows.
+
 
 ## What I Like Building
 
