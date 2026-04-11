@@ -33,8 +33,6 @@ That shows up in my work as structured CLIs, installable skills, automation prim
 
 - [ankicli](https://github.com/Takhoffman/ankicli) - learn anything through Anki with an agent-first command line.
 - [winmote](https://github.com/Takhoffman/winmote) - Windows remote-control and automation tooling.
-- [moltbot](https://github.com/Takhoffman/moltbot) - cross-platform personal assistant infrastructure.
-- [pi-mono](https://github.com/Takhoffman/pi-mono) - monorepo for terminal UI, agent framework, and pod management tooling.
 - [pide](https://github.com/Takhoffman/pide) - editor and developer-tooling experiments.
 
 ## Working Style
