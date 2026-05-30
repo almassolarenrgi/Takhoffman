@@ -1,4 +1,4 @@
-# Hi, I'm Tak
+# Hi, I'm tai
 
 I build agent-first software, learning tools, and developer tooling.
 
